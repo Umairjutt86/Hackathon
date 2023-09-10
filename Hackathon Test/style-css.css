@@ -1,0 +1,16 @@
+nav ul{
+    margin-left:auto;
+    justify-content: space-between;
+}
+.box{
+    min-height: 250px;
+justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   transition: 0.5s;
+   background-color: white;
+}
+.box:hover{
+    border: 0;
+    box-shadow: rgba(58, 14, 180, 0.2) 0px 7px 29px 0px;
+}
